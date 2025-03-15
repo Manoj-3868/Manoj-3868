@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a Software Engineer. I love working on open-so
 - ⚡ Fun fact: [Something quirky or interesting about you].
 
 ## 🛠️ Technologies & Tools
-<img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-512.png"/>
+<img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-512.png" width="50px" height="50px"/>
 
 ## 🚀 Some of My Projects
 
