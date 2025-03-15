@@ -1,6 +1,6 @@
 # Hi there, I'm Manoj K 👋
 
-Welcome to my GitHub profile! I'm a [Software Engineer] passionate about [your interests, technologies, or hobbies]. I love working on open-source projects, solving interesting challenges, and continuously learning new things.
+Welcome to my GitHub profile! I'm a Software Engineer. I love working on open-source projects, solving interesting challenges, and continuously learning new things.
 
 ## 👨‍💻 About Me
 
@@ -13,12 +13,7 @@ Welcome to my GitHub profile! I'm a [Software Engineer] passionate about [your i
 - ⚡ Fun fact: [Something quirky or interesting about you].
 
 ## 🛠️ Technologies & Tools
-
-- **Languages**: JavaScript, Python, TypeScript, HTML, CSS, [Other languages you work with]
-- **Frameworks & Libraries**: React, Node.js, Express, Django, Flask, [Other frameworks you're familiar with]
-- **Databases**: MongoDB, MySQL, PostgreSQL, [Other databases you use]
-- **Tools**: Git, Docker, VSCode, [Other tools you use regularly]
-- **Cloud & DevOps**: AWS, Azure, Kubernetes, [Other cloud services you're working with]
+<img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-512.png"/>
 
 ## 🚀 Some of My Projects
 
