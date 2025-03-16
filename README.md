@@ -1,42 +1,12 @@
-# Hi there, I'm Manoj K 👋
+<h1 align="center">Hi 👋, I'm Manoj K</h1>
+<h3 align="center">A passionate full stack developer who loves learning and building new things.</h3>
 
-Welcome to my GitHub profile! I'm a Software Engineer. I love working on open-source projects, solving interesting challenges, and continuously learning new things.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/manoj-k-490863171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-k-490863171" height="30" width="40" /></a>
+</p>
 
-## 👨‍💻 About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-- 🔭 I’m currently working on [Project/Technology/Interest].
-- 🌱 I’m currently learning [Technology/Skill you’re learning].
-- 👯 I’m looking to collaborate on [What type of projects you’re interested in].
-- 🤔 I’m looking for help with [Any specific project or area you're seeking help with].
-- 💬 Ask me about [topics you’re comfortable helping others with].
-- 📫 How to reach me: [your email or other contact methods].
-- ⚡ Fun fact: [Something quirky or interesting about you].
-
-## 🛠️ Technologies & Tools
-<img src="https://cdn3.iconfinder.com/data/icons/font-awesome-brands/640/golang-512.png" width="50px" height="50px"/>
-
-## 🚀 Some of My Projects
-
-### [Project 1 Name](Link to the project)
-Brief description of the project and its purpose.
-
-### [Project 2 Name](Link to the project)
-Brief description of the project and its purpose.
-
-### [Project 3 Name](Link to the project)
-Brief description of the project and its purpose.
-
-> Feel free to explore more of my repositories to see what I’ve been working on! 😊
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manoj-3868&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-## 📣 Let's Connect!
-
-- [LinkedIn](Your LinkedIn URL)
-- [Twitter](Your Twitter URL)
-- [Personal Website](Your personal website, if you have one)
-
-Thanks for visiting my profile! Feel free to star or fork any repositories that interest you. Let's create something awesome together! 🚀
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manoj-3868&show_icons=true&locale=en" alt="manoj-3868" /></p>
